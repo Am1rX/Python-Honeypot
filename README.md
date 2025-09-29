@@ -66,6 +66,7 @@ sudo python3 Honey.py
 ```
 
 **⚠️ Important Warning**
+
 **For Educational & Research Purposes Only:** This is not a professional, hardened security tool for production environments.
 
 **Run in an Isolated Environment:** Always run this honeypot on a dedicated, isolated system (like a Virtual Machine or a separate computer), not on your personal machine or a critical server.
@@ -73,6 +74,7 @@ sudo python3 Honey.py
 **Legal Responsibility:** You are responsible for any data you collect with this tool. Be aware of your local privacy laws and regulations.
 
 **🔧 Configuration**
+
 You can easily customize the honeypot:
 
 **PORTS_TO_MONITOR:** Edit the list of ports to monitor at the top of the script.
@@ -82,4 +84,5 @@ You can easily customize the honeypot:
 **PORT_SCAN_THRESHOLD:** Adjust the threshold for detecting a stealth scan based on your needs.
 
 **📄 License**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
