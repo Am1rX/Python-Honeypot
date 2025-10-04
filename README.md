@@ -77,11 +77,9 @@ sudo python3 Honey.py
 
 You can easily customize the honeypot:
 
-**PORTS_TO_MONITOR:** Edit the list of ports to monitor at the top of the script.
-
-**BANNERS:** Modify the BANNERS dictionary to change or add new fake banners for other services.
-
-**PORT_SCAN_THRESHOLD:** Adjust the threshold for detecting a stealth scan based on your needs.
+1. **PORTS_TO_MONITOR:** Edit the list of ports to monitor at the top of the script.
+2. **BANNERS:** Modify the BANNERS dictionary to change or add new fake banners for other services.
+3. **PORT_SCAN_THRESHOLD:** Adjust the threshold for detecting a stealth scan based on your needs.
 
 **📄 License**
 
